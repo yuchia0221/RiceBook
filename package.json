@@ -1,0 +1,10 @@
+{
+    "name": "ricebook-web-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "cd frontend && npm run start",
+        "dev": "cd backend && npm run dev"
+    },
+    "author": "Yu-Chia Chen",
+    "license": "MIT"
+}

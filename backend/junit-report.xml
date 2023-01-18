@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="9" time="2.127">
+ <testsuite name="Validate Registration and Login functionality" timestamp="2022-11-08T00:58:00" hostname="localhost" time="0.723" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Validate Registration and Login functionality" name="register new user" time="0.312" />
+  <testcase classname="Validate Registration and Login functionality" name="login user" time="0.169" />
+  <testcase classname="Validate Registration and Login functionality" name="logout user" time="0.241" />
+ </testsuite>
+ <testsuite name="Validate Article APIS functionality" timestamp="2022-11-08T00:58:01" hostname="localhost" time="0.729" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Validate Article APIS functionality" name="GET /articles" time="0.27" />
+  <testcase classname="Validate Article APIS functionality" name="GET /articles/id" time="0.211" />
+  <testcase classname="Validate Article APIS functionality" name="POST /article" time="0.248" />
+ </testsuite>
+ <testsuite name="Validate Profile APIS functionality" timestamp="2022-11-08T00:58:02" hostname="localhost" time="0.466" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Validate Profile APIS functionality" name="GET /headline/chenaa" time="0.219" />
+  <testcase classname="Validate Profile APIS functionality" name="PUT /headline" time="0.246" />
+ </testsuite>
+ <testsuite name="focused specs" timestamp="2022-11-08T00:58:02" hostname="localhost" time="0.209" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="focused specs" name="Clean up" time="0.207" />
+ </testsuite>
+</testsuites>

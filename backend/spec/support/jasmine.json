@@ -1,0 +1,9 @@
+{
+    "spec_dir": "spec",
+    "spec_files": ["start.spec.js", "auth.spec.js", "article.spec.js", "profile.spec.js", "cleanup.spec.js"],
+    "helpers": ["helpers/**/*.?(m)js"],
+    "env": {
+        "stopSpecOnExpectationFailure": false,
+        "random": false
+    }
+}
