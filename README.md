@@ -52,6 +52,8 @@ npm dev
 
 ## Information
 
+To ensure proper functionality, this application requires cookies to be enabled. If you are using Safari, please make sure to turn off the "Prevent cross-site tracking" setting.
+
 ```
 frontend: https://ricebook-client.surge.sh/
 backend: https://ricebook-backend-final.herokuapp.com/
